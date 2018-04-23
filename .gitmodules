@@ -1,0 +1,3 @@
+[submodule "RGB-Fusion-Tool"]
+	path = RGB-Fusion-Tool
+	url = https://github.com/tylerszabo/RGB-Fusion-Tool
