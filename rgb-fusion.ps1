@@ -10,10 +10,10 @@
 #8 = Digltal LED ?
 
 #Run once as it won't change
+$path = $PSScriptRoot + "\RGBFusionTool.exe"
 $zones = & $path --list
 sleep 3
 
-$path = $PSScriptRoot + "\RGBFusionTool.exe"
 $games = (Get-Item $(dir $PSScriptRoot\profiles\*xml) ).Basename
 
 $c=0
