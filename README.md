@@ -2,6 +2,7 @@
 Powershell that use RGB Fusion CLI to associate profiles with Windows Processes
 
 This script includes:
+
 Example XML files Generated/Exported via RGB Fusions GUI - Examples of Default, Notepad, Overwatch and Farcry5 are included. The Default mode is the mode the computer switches to, if profile processes are running, in my default only things attached to the LED analog header will show as blue.
 
 Instructions:
