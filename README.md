@@ -15,6 +15,7 @@ Troubleshooting:
 2) If lights don't respond at all, even in RGB Fusion, the system will have to be powered off and the switch or power cable must be pulled to clear the buffer. 
 
 Included Tool:
+
 Tylerszabo's RGB Fusion Tool - https://github.com/tylerszabo/RGB-Fusion-Tool/ (The compiled code and src is packaged w/ the release)
 
 Legal
