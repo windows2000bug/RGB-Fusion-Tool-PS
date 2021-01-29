@@ -6,7 +6,7 @@ Powershell that use RGB Fusion CLI to associate profiles with Windows Processes
 Example XML files Generated/Exported via RGB Fusions GUI - Examples of Default, Notepad, Overwatch and Farcry5 are included. The Default mode is the mode the computer switches to, if profile processes are running, in my default only things attached to the LED analog header will show as blue. Also included is Tyler Szabo's RGB Fusion Tool.*
 
 ### Instructions:
-1) Run the file https://github.com/windows2000bug/RGB-Fusion-Tool-PS/releases/download/v0.4-beta/Installer-Fusion-ToolPS.exe
+1) Download and Extract Latest Release: https://github.com/windows2000bug/RGB-Fusion-Tool-PS/releases/
 
 Currently there is no mechnicism to restart the tool, so any new profiles can be applied, you must restart the computer at this time. We are still also working on an off and restart switch for the tool
 
